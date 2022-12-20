@@ -66,7 +66,7 @@
 <a href="https://www.linkedin.com/in/matias-alves-110940236"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049901491395252324/Matias_imagem.png" width="150px"></a>
 <br>
 <a href="https://www.linkedin.com/in/weslei-silva-7b8460250/"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049902028740116490/Weslei_imagem.png" width="150px"></a>
-<a href="lucas"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049902415417192519/Lucas_imagem.png" width="150px"></a>
+<a href="https://www.linkedin.com/in/lucascfranca/"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049902415417192519/Lucas_imagem.png" width="150px"></a>
 <a href="https://www.linkedin.com/in/enzo-serikawa-3270541a0/"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049902754996428920/Enzo_imagem.png" width="150px"></a>
 </div>
 
