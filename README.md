@@ -60,7 +60,7 @@
 <h3 align="center">:mechanical_arm: Nossa equipe</h3>
 <br>
 <div align="center">
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7009324835575083008/"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049899885694046238/Daniel_imagem.png" width="150px"></a>
+<a href="https://www.linkedin.com/in/daniel-santos-9a8631247/"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049899885694046238/Daniel_imagem.png" width="150px"></a>
 <a href="https://www.linkedin.com/in/gabriel-silva-pacheco"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049900669399728148/Gabriel_imagem.png" width="150px"></a>
 <a href="https://www.linkedin.com/in/jhonatha-daniel-a10640207"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049901034367107082/Jhonatha_imagem_1.png" width="150px"></a>
 <a href="https://www.linkedin.com/in/matias-alves-110940236"><img src="https://cdn.discordapp.com/attachments/1024884516076138608/1049901491395252324/Matias_imagem.png" width="150px"></a>
